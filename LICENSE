@@ -1,3 +1,2 @@
 int a = 0;
-if (a > 0) a--;
-test git diff;
+if (a >= 0) a--;
